@@ -1,0 +1,21 @@
+show scalaVersion
+set scalaVersion := "2.11.11"
+show scalaVersion
+set version := "1.0"
+exit
+show scalaVersion
+set scalaVersion := "2.11.11"
+show scalaVersion
+set version := "1.0"
+session save
+reload
+exit
+compile
+test
+reload
+compile
+test
+reload
+test
+reload
+test
