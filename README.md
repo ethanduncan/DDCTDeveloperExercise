@@ -1,17 +1,31 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
+# Project Name
 
-  <title>DDCTDeveloperExercise</title>
+TODO: Write a project description
 
+## Installation
 
-<meta name="theme-color" content="#1e2327">
+TODO: Describe the installation process
 
+## Usage
 
+TODO: Write usage instructions
 
-  </head>
+## Contributing
 
- <body class="logged-in env-production page-blob">
- </body>
-</html>
+1. Fork it!
+2. Create your feature branch: `git checkout -b my-new-feature`
+3. Commit your changes: `git commit -am 'Add some feature'`
+4. Push to the branch: `git push origin my-new-feature`
+5. Submit a pull request :D
 
+## History
+
+TODO: Write history
+
+## Credits
+
+TODO: Write credits
+
+## License
+
+TODO: Write license
