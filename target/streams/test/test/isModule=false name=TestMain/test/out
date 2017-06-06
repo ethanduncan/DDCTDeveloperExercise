@@ -5,5 +5,8 @@
 [0m[[0minfo[0m] [0m[32m- Bill generated should calculate how much a Steak Sandwich is[0m[0m
 [0m[[0minfo[0m] [0m[32m- Bill generated should calculate the sum of multiple items[0m[0m
 [0m[[0minfo[0m] [0m[32m- Bill generated should calculate a bill with multiple of the same item[0m[0m
-[0m[[0minfo[0m] [0m[32m- Bill generated should handle no iputs[0m[0m
-[0m[[0minfo[0m] [0m[32m- Bill generated should handle wrong iputs[0m[0m
+[0m[[0minfo[0m] [0m[32m- Bill generated should handle no inputs[0m[0m
+[0m[[0minfo[0m] [0m[32m- Bill generated should handle wrong inputs[0m[0m
+[0m[[0minfo[0m] [0m[32m- Bill generated should apply no service charge to drinks only bill[0m[0m
+[0m[[0minfo[0m] [0m[32m- Bill generated should apply a service charge of 10% to any bill including drinks and cold food[0m[0m
+[0m[[0minfo[0m] [0m[32m- Bill generated should apply a service charge of 20% to bill including hot food[0m[0m

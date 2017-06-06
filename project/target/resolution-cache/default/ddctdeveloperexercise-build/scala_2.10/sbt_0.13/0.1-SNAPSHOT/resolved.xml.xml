@@ -4,7 +4,7 @@
 		module="ddctdeveloperexercise-build"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20170603160654"
+		publication="20170606112425"
 		e:sbtVersion="0.13" e:scalaVersion="2.10"
 	>
 		<description>
