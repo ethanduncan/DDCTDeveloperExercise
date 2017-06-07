@@ -1,14 +1,14 @@
-# Project Name
+# DDCT Developer Exercise
 
-TODO: Write a project description
+Application that generates a bill with service charge when menu items are inputted.
 
 ## Installation
 
-TODO: Describe the installation process
+Built using SBT. Clone repo and build using the sbt command.
 
 ## Usage
 
-TODO: Write usage instructions
+Simply compile using sbt and run test command.
 
 ## Contributing
 
@@ -20,12 +20,20 @@ TODO: Write usage instructions
 
 ## History
 
-TODO: Write history
+Fix generateBill to return string output
+
+Add calculating service charge and including service charge on bill
+
+Add generating a bill from a list of purchased items (Step 1)
+
+Updated# README
+
+Added README
+
+Initial commit
+
 
 ## Credits
 
-TODO: Write credits
+Ethan Duncan-Stewart
 
-## License
-
-TODO: Write license
