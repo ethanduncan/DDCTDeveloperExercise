@@ -1,8 +1,8 @@
 
 object main {
     
-    //input a list of items and add total price
-    def generateBill(strings:String*):Double = {    
+    // input a list of items and add total price with service charge
+    def generateBill(strings:String*):String = {    
       val menuItems = initialiseMenu
       val items = 
       for{
@@ -20,20 +20,22 @@ object main {
         else
           priceWithOutService+20
       }
-      BigDecimal(totalBill).setScale(3, BigDecimal.RoundingMode.HALF_UP).toDouble
+      val stringReplaced = strings.toString().replace("WrappedArray","")
+      val price = BigDecimal(totalBill).setScale(2, BigDecimal.RoundingMode.HALF_UP).toDouble
+      (s"$stringReplaced returns $price")
     }
-    //returns service charge
+    // returns service charge
     def getServiceChargeRate(items:Seq[MenuItem]):Int = {
-      val foodOrDrink = items.exists(_.foodOrDrink == true)
-      val hotOrCold = items.exists(_.hotOrCold == true)
-      def checkItemAttributes(foodOrDrink:Boolean,bool2:Boolean):Int = (foodOrDrink, hotOrCold) match {
+      val food = items.exists(_.food == true)
+      val hot = items.exists(_.hot == true)
+      def checkItemAttributes(food:Boolean,hot:Boolean):Int = (food, hot) match {
         case (true,true) => 20
         case (true,_) => 10
         case (_,_) => 0
       }
-      checkItemAttributes(foodOrDrink,hotOrCold)
+      checkItemAttributes(food,hot)
     }   
-    //create items and add to list 
+    // create items and add to list 
     def initialiseMenu = {
       val cola = MenuItem("Cola",0.5,false,false)
       val coffee = MenuItem("Coffee",1,false,true)
