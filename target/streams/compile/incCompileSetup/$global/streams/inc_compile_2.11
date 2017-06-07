@@ -4,7 +4,7 @@ output mode:
 0 -> single
 output directories:
 1 items
-output dir -> C:\Users\eduncans\workspace\DDCTDeveloperExercise\target\scala-2.11\classes
+output dir -> D:\Ethan\Programming\DDCTDeveloperExercise\target\scala-2.11\classes
 compile options:
 0 items
 javac options:
@@ -20,22 +20,22 @@ name hashing:
 0 -> true
 products:
 10 items
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> C:\Users\eduncans\workspace\DDCTDeveloperExercise\target\scala-2.11\classes\main$$anonfun$1$$anonfun$apply$1.class
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> C:\Users\eduncans\workspace\DDCTDeveloperExercise\target\scala-2.11\classes\main$$anonfun$1$$anonfun$apply$2.class
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> C:\Users\eduncans\workspace\DDCTDeveloperExercise\target\scala-2.11\classes\main$$anonfun$1.class
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> C:\Users\eduncans\workspace\DDCTDeveloperExercise\target\scala-2.11\classes\main$$anonfun$2.class
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> C:\Users\eduncans\workspace\DDCTDeveloperExercise\target\scala-2.11\classes\main$$anonfun$3.class
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> C:\Users\eduncans\workspace\DDCTDeveloperExercise\target\scala-2.11\classes\main$$anonfun$4.class
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> C:\Users\eduncans\workspace\DDCTDeveloperExercise\target\scala-2.11\classes\main$.class
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> C:\Users\eduncans\workspace\DDCTDeveloperExercise\target\scala-2.11\classes\main.class
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> C:\Users\eduncans\workspace\DDCTDeveloperExercise\target\scala-2.11\classes\MenuItem$.class
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> C:\Users\eduncans\workspace\DDCTDeveloperExercise\target\scala-2.11\classes\MenuItem.class
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> D:\Ethan\Programming\DDCTDeveloperExercise\target\scala-2.11\classes\main$$anonfun$1$$anonfun$apply$1.class
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> D:\Ethan\Programming\DDCTDeveloperExercise\target\scala-2.11\classes\main$$anonfun$1$$anonfun$apply$2.class
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> D:\Ethan\Programming\DDCTDeveloperExercise\target\scala-2.11\classes\main$$anonfun$1.class
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> D:\Ethan\Programming\DDCTDeveloperExercise\target\scala-2.11\classes\main$$anonfun$2.class
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> D:\Ethan\Programming\DDCTDeveloperExercise\target\scala-2.11\classes\main$$anonfun$3.class
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> D:\Ethan\Programming\DDCTDeveloperExercise\target\scala-2.11\classes\main$$anonfun$4.class
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> D:\Ethan\Programming\DDCTDeveloperExercise\target\scala-2.11\classes\main$.class
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> D:\Ethan\Programming\DDCTDeveloperExercise\target\scala-2.11\classes\main.class
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> D:\Ethan\Programming\DDCTDeveloperExercise\target\scala-2.11\classes\MenuItem$.class
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> D:\Ethan\Programming\DDCTDeveloperExercise\target\scala-2.11\classes\MenuItem.class
 binary dependencies:
 4 items
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> C:\Program Files\Java\jre1.8.0_131\lib\rt.jar
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> C:\Users\eduncans\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.11.jar
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> C:\Program Files\Java\jre1.8.0_131\lib\rt.jar
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> C:\Users\eduncans\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.11.jar
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> C:\Program Files\Java\jre1.8.0_131\lib\rt.jar
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> C:\Users\Ethan\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.11.jar
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> C:\Program Files\Java\jre1.8.0_131\lib\rt.jar
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> C:\Users\Ethan\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.11.jar
 direct source dependencies:
 0 items
 direct external dependencies:
@@ -46,7 +46,7 @@ public inherited external dependencies:
 0 items
 member reference internal dependencies:
 1 items
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\MenuItem.scala
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\MenuItem.scala
 member reference external dependencies:
 0 items
 inheritance internal dependencies:
@@ -55,189 +55,183 @@ inheritance external dependencies:
 0 items
 class names:
 10 items
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> main
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> main$
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> main$$anonfun$1
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> main$$anonfun$1$$anonfun$apply$1
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> main$$anonfun$1$$anonfun$apply$2
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> main$$anonfun$2
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> main$$anonfun$3
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> main$$anonfun$4
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> MenuItem
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> MenuItem$
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> main
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> main$
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> main$$anonfun$1
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> main$$anonfun$1$$anonfun$apply$1
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> main$$anonfun$1$$anonfun$apply$2
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> main$$anonfun$2
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> main$$anonfun$3
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> main$$anonfun$4
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> MenuItem
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> MenuItem$
 used names:
-131 items
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> *
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> +
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> /
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> <=
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> <init>
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> <repeated>
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> ==
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> A
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> Any
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> AnyRef
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> B
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> BigDecimal
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> Boolean
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> CanBuildFrom
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> CharSequence
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> Coll
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> Double
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> DoubleIsFractional
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> FilterMonadic
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> Function1
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> GenTraversableOnce
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> HALF_UP
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> Int
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> List
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> MatchError
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> MenuItem
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> Nothing
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> Numeric
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> Object
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> Predef
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> RoundingMode
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> Seq
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> String
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> StringContext
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> T1
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> T2
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> That
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> Tuple2
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> Value
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> _1
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> _2
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> _root_
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> a
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> apply
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> b
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> canBuildFrom
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> checkItemAttributes
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> cheeseSandwich
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> coffee
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> cola
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> collection
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> exists
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> flatMap
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> food
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> getServiceChargeRate
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> hot
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> immutable
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> initialiseMenu
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> items
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> main
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> map
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> math
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> menuItems
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> name
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> ne
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> package
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> price
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> priceWithOutService
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> replace
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> s
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> scala
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> serviceChargeAmount
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> serviceChargeRate
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> setScale
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> steakSandwich
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> stringReplaced
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> strings
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> sum
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> toDouble
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> toString
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> totalBill
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> withFilter
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> |
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> &&
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> <init>
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> ==
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> A
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> AbstractFunction4
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> Any
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> AnyRef
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> Boolean
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> Double
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> IndexOutOfBoundsException
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> Int
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> Iterator
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> MenuItem
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> None
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> Nothing
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> Object
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> Predef
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> Product
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> ScalaRunTime
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> Serializable
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> Some
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> Statics
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> String
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> T
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> T0
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> T1
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> T2
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> T3
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> T4
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> Tuple4
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> _toString
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> anyHash
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> asInstanceOf
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> doubleHash
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> eq
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> finalizeHash
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> food
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> hot
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> isInstanceOf
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> mix
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> name
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> package
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> price
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> runtime
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> scala
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> toString
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> typedProductIterator
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> ||
+125 items
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> *
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> +
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> /
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> <=
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> <init>
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> <repeated>
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> ==
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> A
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> Any
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> AnyRef
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> B
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> BigDecimal
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> Boolean
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> CanBuildFrom
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> Coll
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> Double
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> DoubleIsFractional
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> FilterMonadic
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> Function1
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> GenTraversableOnce
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> HALF_UP
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> Int
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> List
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> MatchError
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> MenuItem
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> Nothing
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> Numeric
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> Object
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> Predef
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> RoundingMode
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> Seq
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> String
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> T1
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> T2
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> That
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> Tuple2
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> Value
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> _1
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> _2
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> _root_
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> a
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> apply
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> b
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> canBuildFrom
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> checkItemAttributes
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> cheeseSandwich
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> coffee
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> cola
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> collection
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> exists
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> flatMap
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> food
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> getServiceChargeRate
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> hot
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> immutable
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> initialiseMenu
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> items
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> main
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> map
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> math
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> menuItems
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> name
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> ne
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> package
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> price
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> priceWithOutService
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> scala
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> serviceChargeAmount
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> serviceChargeRate
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> setScale
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> steakSandwich
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> strings
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> sum
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> toDouble
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> totalBill
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> withFilter
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> |
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> &&
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> <init>
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> ==
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> A
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> AbstractFunction4
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> Any
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> AnyRef
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> Boolean
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> Double
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> IndexOutOfBoundsException
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> Int
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> Iterator
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> MenuItem
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> None
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> Nothing
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> Object
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> Predef
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> Product
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> ScalaRunTime
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> Serializable
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> Some
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> Statics
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> String
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> T
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> T0
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> T1
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> T2
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> T3
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> T4
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> Tuple4
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> _toString
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> anyHash
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> asInstanceOf
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> doubleHash
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> eq
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> finalizeHash
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> food
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> hot
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> isInstanceOf
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> mix
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> name
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> package
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> price
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> runtime
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> scala
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> toString
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> typedProductIterator
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> ||
 product stamps:
 10 items
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\target\scala-2.11\classes\main$$anonfun$1$$anonfun$apply$1.class -> lastModified(1496829843192)
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\target\scala-2.11\classes\main$$anonfun$1$$anonfun$apply$2.class -> lastModified(1496829843194)
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\target\scala-2.11\classes\main$$anonfun$1.class -> lastModified(1496829843188)
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\target\scala-2.11\classes\main$$anonfun$2.class -> lastModified(1496829843197)
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\target\scala-2.11\classes\main$$anonfun$3.class -> lastModified(1496829843200)
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\target\scala-2.11\classes\main$$anonfun$4.class -> lastModified(1496829843203)
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\target\scala-2.11\classes\main$.class -> lastModified(1496829843182)
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\target\scala-2.11\classes\main.class -> lastModified(1496829843170)
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\target\scala-2.11\classes\MenuItem$.class -> lastModified(1496827388260)
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\target\scala-2.11\classes\MenuItem.class -> lastModified(1496827388253)
+D:\Ethan\Programming\DDCTDeveloperExercise\target\scala-2.11\classes\main$$anonfun$1$$anonfun$apply$1.class -> lastModified(1496875169823)
+D:\Ethan\Programming\DDCTDeveloperExercise\target\scala-2.11\classes\main$$anonfun$1$$anonfun$apply$2.class -> lastModified(1496875169832)
+D:\Ethan\Programming\DDCTDeveloperExercise\target\scala-2.11\classes\main$$anonfun$1.class -> lastModified(1496875169814)
+D:\Ethan\Programming\DDCTDeveloperExercise\target\scala-2.11\classes\main$$anonfun$2.class -> lastModified(1496875169841)
+D:\Ethan\Programming\DDCTDeveloperExercise\target\scala-2.11\classes\main$$anonfun$3.class -> lastModified(1496875169849)
+D:\Ethan\Programming\DDCTDeveloperExercise\target\scala-2.11\classes\main$$anonfun$4.class -> lastModified(1496875169855)
+D:\Ethan\Programming\DDCTDeveloperExercise\target\scala-2.11\classes\main$.class -> lastModified(1496875169804)
+D:\Ethan\Programming\DDCTDeveloperExercise\target\scala-2.11\classes\main.class -> lastModified(1496875169783)
+D:\Ethan\Programming\DDCTDeveloperExercise\target\scala-2.11\classes\MenuItem$.class -> lastModified(1496875169775)
+D:\Ethan\Programming\DDCTDeveloperExercise\target\scala-2.11\classes\MenuItem.class -> lastModified(1496875169762)
 source stamps:
 2 items
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> hash(81d0fce32bdeeed5634c1f6a693293e5170d9539)
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> hash(896f40d69d2aa08bd3c67be055174afda61b795f)
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> hash(24dde08dae468f03f300acfeee8d76853ec6fc9a)
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> hash(896f40d69d2aa08bd3c67be055174afda61b795f)
 binary stamps:
 2 items
-C:\Program Files\Java\jre1.8.0_131\lib\rt.jar -> lastModified(1496655933648)
-C:\Users\eduncans\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.11.jar -> lastModified(1492113025000)
+C:\Program Files\Java\jre1.8.0_131\lib\rt.jar -> lastModified(1496487016919)
+C:\Users\Ethan\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.11.jar -> lastModified(1492113025000)
 class names:
 2 items
 C:\Program Files\Java\jre1.8.0_131\lib\rt.jar -> java.lang.Object
-C:\Users\eduncans\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.11.jar -> scala.collection.immutable.List
+C:\Users\Ethan\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.11.jar -> scala.Serializable
 internal apis:
 2 items
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwQnfYwwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAXc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwdgKAX3QABm5vdGlmeXNxAH4ADMhJp2t0AAR3YWl0c3EAfgAMV0bCV3QADSRhc0luc3RhbmNlT2ZzcQB+AAz1CEW2dAAGZXF1YWxzc3EAfgAM8RGfJnQADGFzSW5zdGFuY2VPZnNxAH4ADAAQBvZ0AAxzeW5jaHJvbml6ZWRzcQB+AAxvpJrcdAANJGlzSW5zdGFuY2VPZnNxAH4ADCNkHvh0AA5pbml0aWFsaXNlTWVudXNxAH4ADE9XeBt0ABRnZXRTZXJ2aWNlQ2hhcmdlUmF0ZXNxAH4ADMA59i10AARtYWluc3EAfgAMruDrBnQACW5vdGlmeUFsbHNxAH4ADPd4+fd0AAxnZW5lcmF0ZUJpbGxzcQB+AAyBgeetdAAMaXNJbnN0YW5jZU9mc3EAfgAMS6wApnQAAj09c3EAfgAMojBtynQABWNsb25lc3EAfgAMnS3xb3QACHRvU3RyaW5nc3EAfgAM1doy4XQAAiE9c3EAfgAMrDDzh3QACGdldENsYXNzc3EAfgAMiwSZBXQAAm5lc3EAfgAMz4BGlHQAAmVxc3EAfgAMB0hYKnQAAiMjc3EAfgAMJukjiHQACGZpbmFsaXplc3EAfgAMwqpRMXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4ARXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgAhdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBcc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEVMAAlpbmhlcml0ZWRxAH4ARUwAB3BhcmVudHNxAH4ARXhxAH4AYXNxAH4AXHVxAH4AQAAAAABzcQB+AFx1cQB+AEAAAAAAc3EAfgBcdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBgdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBgc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgB5dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB6c3EAfgBtdAADQW55c3EAfgBxc3EAfgB0dXEAfgB3AAAAAnNxAH4AeXQABXNjYWxhcQB+AIB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXIIC1J11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABLQzpcVXNlcnNcZWR1bmNhbnNcd29ya3NwYWNlXEREQ1REZXZlbG9wZXJFeGVyY2lzZVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUgdD84yve7tVjTB9qaTKT5RcNlTk=
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw8Am3AQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAkc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwkKfiv3QABm5vdGlmeXNxAH4ADOEqTQh0AARuYW1lc3EAfgAMETVAiXQABHdhaXRzcQB+AAxGNj3OdAAOY29weSRkZWZhdWx0JDJzcQB+AAxcm4CLdAANJGFzSW5zdGFuY2VPZnNxAH4ADOCGdyh0AAxwcm9kdWN0QXJpdHlzcQB+AAxqJ4c4dAAGZXF1YWxzc3EAfgAMsXEvCHQACE1lbnVJdGVtc3EAfgAMqVnvznQADGFzSW5zdGFuY2VPZnNxAH4ADBP4ZAN0AAVwcmljZXNxAH4ADML+vE10AAxzeW5jaHJvbml6ZWRzcQB+AAzW6HsrdAANJGlzSW5zdGFuY2VPZnNxAH4ADAdk5lZ0AAhjYW5FcXVhbHNxAH4ADNm7G0N0AA5jb3B5JGRlZmF1bHQkNHNxAH4ADMShPZJ0AA1wcm9kdWN0UHJlZml4c3EAfgAMGeO+6nQACW5vdGlmeUFsbHNxAH4ADAKRo+10AAxpc0luc3RhbmNlT2ZzcQB+AAzvH30vdAAGPGluaXQ+c3EAfgAMtIthgXQAAj09c3EAfgAMQ0ZWsXQABGZvb2RzcQB+AAw2JYV0dAAFY2xvbmVzcQB+AAzrIZHDdAAGJGluaXQkc3EAfgAMQNqJxnQADmNvcHkkZGVmYXVsdCQzc3EAfgAMcUGWcXQABGNvcHlzcQB+AAy/AqQ/dAAIdG9TdHJpbmdzcQB+AAw7YkISdAADaG90c3EAfgAMNz5DOnQAAiE9c3EAfgAMlzL26XQACGdldENsYXNzc3EAfgAMmG24C3QADmNvcHkkZGVmYXVsdCQxc3EAfgAMaQZjg3QAAm5lc3EAfgAM1I0H3HQAAmVxc3EAfgAMoKcEjXQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADBHGnCF0AAIjI3NxAH4ADFALtt90AAhmaW5hbGl6ZXNxAH4ADOlaHpN0AA5wcm9kdWN0RWxlbWVudHNxAH4ADC0OjLt0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AF94cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cABxAH4AHXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgB2c3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AF9MAAlpbmhlcml0ZWRxAH4AX0wAB3BhcmVudHNxAH4AX3hxAH4Ae3NxAH4AdnVxAH4AWgAAAABzcQB+AHZ1cQB+AFoAAAAAc3EAfgB2dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAZzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgB6dAAMU2VyaWFsaXphYmxlc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgB6c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCUc3EAfgCHcQB+AIpzcQB+AItzcQB+AI51cQB+AJEAAAADc3EAfgCTdAAEamF2YXNxAH4Ak3QAAmlvcQB+AJhzcQB+AId0AAdQcm9kdWN0cQB+AI1zcQB+AId0AAZFcXVhbHNxAH4AjXNxAH4Ah3QABk9iamVjdHNxAH4Ai3NxAH4AjnVxAH4AkQAAAANzcQB+AJNxAH4AnnNxAH4Ak3QABGxhbmdxAH4AmHNxAH4Ah3QAA0FueXEAfgCNdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVyB3VYtdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAS0M6XFVzZXJzXGVkdW5jYW5zXHdvcmtzcGFjZVxERENURGV2ZWxvcGVyRXhlcmNpc2VcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFIlvQNadKqCL08Z74FUXSv2mG3lf
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwzAoY5gAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAXc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwdgKAX3QABm5vdGlmeXNxAH4ADMhJp2t0AAR3YWl0c3EAfgAMV0bCV3QADSRhc0luc3RhbmNlT2ZzcQB+AAz1CEW2dAAGZXF1YWxzc3EAfgAM8RGfJnQADGFzSW5zdGFuY2VPZnNxAH4ADAAQBvZ0AAxzeW5jaHJvbml6ZWRzcQB+AAxvpJrcdAANJGlzSW5zdGFuY2VPZnNxAH4ADCNkHvh0AA5pbml0aWFsaXNlTWVudXNxAH4ADE9XeBt0ABRnZXRTZXJ2aWNlQ2hhcmdlUmF0ZXNxAH4ADMA59i10AARtYWluc3EAfgAMruDrBnQACW5vdGlmeUFsbHNxAH4ADE5GT0F0AAxnZW5lcmF0ZUJpbGxzcQB+AAyBgeetdAAMaXNJbnN0YW5jZU9mc3EAfgAMS6wApnQAAj09c3EAfgAMojBtynQABWNsb25lc3EAfgAMnS3xb3QACHRvU3RyaW5nc3EAfgAM1doy4XQAAiE9c3EAfgAMrDDzh3QACGdldENsYXNzc3EAfgAMiwSZBXQAAm5lc3EAfgAMz4BGlHQAAmVxc3EAfgAMB0hYKnQAAiMjc3EAfgAMJukjiHQACGZpbmFsaXplc3EAfgAMwqpRMXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4ARXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgAhdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBcc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEVMAAlpbmhlcml0ZWRxAH4ARUwAB3BhcmVudHNxAH4ARXhxAH4AYXNxAH4AXHVxAH4AQAAAAABzcQB+AFx1cQB+AEAAAAAAc3EAfgBcdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBgdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBgc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgB5dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB6c3EAfgBtdAADQW55c3EAfgBxc3EAfgB0dXEAfgB3AAAAAnNxAH4AeXQABXNjYWxhcQB+AIB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXIS2adB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABERDpcRXRoYW5cUHJvZ3JhbW1pbmdcRERDVERldmVsb3BlckV4ZXJjaXNlXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQk3eCNrkaPA/MArP7ujXaFPsb8mg==
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw8Am3AQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAkc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwkKfiv3QABm5vdGlmeXNxAH4ADOEqTQh0AARuYW1lc3EAfgAMETVAiXQABHdhaXRzcQB+AAxGNj3OdAAOY29weSRkZWZhdWx0JDJzcQB+AAxcm4CLdAANJGFzSW5zdGFuY2VPZnNxAH4ADOCGdyh0AAxwcm9kdWN0QXJpdHlzcQB+AAxqJ4c4dAAGZXF1YWxzc3EAfgAMsXEvCHQACE1lbnVJdGVtc3EAfgAMqVnvznQADGFzSW5zdGFuY2VPZnNxAH4ADBP4ZAN0AAVwcmljZXNxAH4ADML+vE10AAxzeW5jaHJvbml6ZWRzcQB+AAzW6HsrdAANJGlzSW5zdGFuY2VPZnNxAH4ADAdk5lZ0AAhjYW5FcXVhbHNxAH4ADNm7G0N0AA5jb3B5JGRlZmF1bHQkNHNxAH4ADMShPZJ0AA1wcm9kdWN0UHJlZml4c3EAfgAMGeO+6nQACW5vdGlmeUFsbHNxAH4ADAKRo+10AAxpc0luc3RhbmNlT2ZzcQB+AAzvH30vdAAGPGluaXQ+c3EAfgAMtIthgXQAAj09c3EAfgAMQ0ZWsXQABGZvb2RzcQB+AAw2JYV0dAAFY2xvbmVzcQB+AAzrIZHDdAAGJGluaXQkc3EAfgAMQNqJxnQADmNvcHkkZGVmYXVsdCQzc3EAfgAMcUGWcXQABGNvcHlzcQB+AAy/AqQ/dAAIdG9TdHJpbmdzcQB+AAw7YkISdAADaG90c3EAfgAMNz5DOnQAAiE9c3EAfgAMlzL26XQACGdldENsYXNzc3EAfgAMmG24C3QADmNvcHkkZGVmYXVsdCQxc3EAfgAMaQZjg3QAAm5lc3EAfgAM1I0H3HQAAmVxc3EAfgAMoKcEjXQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADBHGnCF0AAIjI3NxAH4ADFALtt90AAhmaW5hbGl6ZXNxAH4ADOlaHpN0AA5wcm9kdWN0RWxlbWVudHNxAH4ADC0OjLt0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AF94cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cABxAH4AHXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgB2c3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AF9MAAlpbmhlcml0ZWRxAH4AX0wAB3BhcmVudHNxAH4AX3hxAH4Ae3NxAH4AdnVxAH4AWgAAAABzcQB+AHZ1cQB+AFoAAAAAc3EAfgB2dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAZzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgB6dAAMU2VyaWFsaXphYmxlc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgB6c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCUc3EAfgCHcQB+AIpzcQB+AItzcQB+AI51cQB+AJEAAAADc3EAfgCTdAAEamF2YXNxAH4Ak3QAAmlvcQB+AJhzcQB+AId0AAdQcm9kdWN0cQB+AI1zcQB+AId0AAZFcXVhbHNxAH4AjXNxAH4Ah3QABk9iamVjdHNxAH4Ai3NxAH4AjnVxAH4AkQAAAANzcQB+AJNxAH4AnnNxAH4Ak3QABGxhbmdxAH4AmHNxAH4Ah3QAA0FueXEAfgCNdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVyEtmnQdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAREQ6XEV0aGFuXFByb2dyYW1taW5nXEREQ1REZXZlbG9wZXJFeGVyY2lzZVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUiW9A1p0qoIvTxnvgVRdK/aYbeV8=
 external apis:
 0 items
 source infos:
 2 items
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\main.scala -> 
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\Main.scala -> 
 AAAAAAAAAAA=
-C:\Users\eduncans\workspace\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> 
+D:\Ethan\Programming\DDCTDeveloperExercise\src\main\scala\MenuItem.scala -> 
 AAAAAAAAAAA=
 compilations:
-8 items
+9 items
 0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXIHdVi11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAS0M6XFVzZXJzXGVkdW5jYW5zXHdvcmtzcGFjZVxERENURGV2ZWxvcGVyRXhlcmNpc2VcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
 1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXIHkZDl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAS0M6XFVzZXJzXGVkdW5jYW5zXHdvcmtzcGFjZVxERENURGV2ZWxvcGVyRXhlcmNpc2VcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
 2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXIHk6PF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAS0M6XFVzZXJzXGVkdW5jYW5zXHdvcmtzcGFjZVxERENURGV2ZWxvcGVyRXhlcmNpc2VcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
@@ -246,3 +240,4 @@ compilations:
 5 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXIHtxWd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAS0M6XFVzZXJzXGVkdW5jYW5zXHdvcmtzcGFjZVxERENURGV2ZWxvcGVyRXhlcmNpc2VcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
 6 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXIHuWJ11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAS0M6XFVzZXJzXGVkdW5jYW5zXHdvcmtzcGFjZVxERENURGV2ZWxvcGVyRXhlcmNpc2VcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
 7 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXIIC1J11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAS0M6XFVzZXJzXGVkdW5jYW5zXHdvcmtzcGFjZVxERENURGV2ZWxvcGVyRXhlcmNpc2VcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+8 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXIS2adB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAREQ6XEV0aGFuXFByb2dyYW1taW5nXEREQ1REZXZlbG9wZXJFeGVyY2lzZVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==

@@ -2,7 +2,7 @@
 object main {
     
     // input a list of items and add total price with service charge
-    def generateBill(strings:String*):String = {    
+    def generateBill(strings:String*):Double = {    
       val menuItems = initialiseMenu
       val items = 
       for{
@@ -20,9 +20,9 @@ object main {
         else
           priceWithOutService+20
       }
-      val stringReplaced = strings.toString().replace("WrappedArray","")
-      val price = BigDecimal(totalBill).setScale(2, BigDecimal.RoundingMode.HALF_UP).toDouble
-      (s"$stringReplaced returns $price")
+
+      BigDecimal(totalBill).setScale(2, BigDecimal.RoundingMode.HALF_UP).toDouble
+
     }
     // returns service charge
     def getServiceChargeRate(items:Seq[MenuItem]):Int = {
